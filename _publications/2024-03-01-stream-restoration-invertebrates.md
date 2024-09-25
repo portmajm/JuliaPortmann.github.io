@@ -2,7 +2,7 @@
 title: "Improved biological condition following riparian restoration in an agriculturally impaired Chesapeake Bay watershed"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-03-01-stream-restoration-invertebrates
+permalink: /publications/2024-03-01-stream-restoration-invertebrates
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-03-01
 venue: 'Ecological Restoration'

@@ -2,9 +2,9 @@
 title: "A province-level Species Protection Index to assess conservation area efficacy"
 collection: talks
 type: "Talk"
-permalink: /talks/2024-6-19-state-SPI-WBF
+permalink: /talks/2024-06-19-state-SPI-WBF
 venue: "Davos Congress Center"
-date: 2012-03-01
+date: 2024-06-19
 location: "Davos, Switzerland"
 ---
 
